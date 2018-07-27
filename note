@@ -1,0 +1,7 @@
+fid:
+54 -> carpool
+60 -> rental
+
+typeid (filterId):
+88 -> tenant
+89 -> landlord
